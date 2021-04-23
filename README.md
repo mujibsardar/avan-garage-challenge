@@ -12,6 +12,6 @@ In the root directory run `npm start`
 4. Start the server
 In the server directory run `npm start`
 
-You should see something hideous but function that looks like this
+You should see something hideous but functional that looks like this
 
 ![screenshot of ten garages with images in Los Angeles](https://raw.githubusercontent.com/mujibsardar/avan-garage-challenge/main/Screenshot.png)
